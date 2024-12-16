@@ -1,1 +1,3 @@
 theme: minima
+base: main
+compare: my-pages
