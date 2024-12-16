@@ -1,3 +1,4 @@
 theme: minima
-base: main
-compare: my-pages
+title: "Мой крутой сайт"
+author: "Иван Иванов"
+description: "Это описание моего первого сайта на GitHub Pages"
